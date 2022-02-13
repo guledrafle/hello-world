@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository and it is hello world 
+
+These are my changes to the hello world file.
